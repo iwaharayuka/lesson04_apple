@@ -1,2 +1,39 @@
 @charset "UTF-8";
 
+.section-wrap{
+    width: ;
+    height: ;
+    background-color: #111111;
+
+}
+
+.hero-area{
+    width: 1092px;
+    height: 673px;
+    display: flex;
+}
+
+.hero-l{
+    width: 546px;
+    height: 673px;
+    font-family: "SF Pro Display";
+    color: white;
+    background-color: #000000;
+    position: relative;
+}
+
+.hero-l h1{
+    font-weight: bold;
+    font-size: 50px;
+    position: absolute;
+}
+
+.hero-l h2{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.hero-r{
+    width: 546px;
+    height: 673px;
+}
